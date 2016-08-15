@@ -1,0 +1,9 @@
+iconStyle {
+  /* "width": Platform.OS === 'ios' ? 30 : 25;  */
+  width: JS(scale === 2 ? 25 : 20);
+  height: JS(scale === 2 ? 25 : 20);
+}
+
+selectedTitleStyle {
+  color: orange;
+}

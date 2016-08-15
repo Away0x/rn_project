@@ -1,0 +1,39 @@
+container {
+  flex: 1;
+  background-color: #E8E8E8;
+}
+
+/* ---------- Home页导航条样式 BEGIN ----------- */
+navStyle {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+
+  height: 44px;
+
+  background-color: rgba(255, 96, 0, 1);
+}
+
+  navLeftStyle {}
+    navLeftTextStyle {
+      color: white;
+    }
+
+  navMiddleStyle {
+    justify-content: center;
+
+    width: JS(width * 0.73);
+    height: 30px;
+    border-radius: 15;
+
+    background-color: white;
+  }
+
+  navRightStyle {
+    flex-direction: row;
+  }
+    navRightImageStyle {
+      width: 30px;
+      height: 30px;
+    }
+/* ---------- Home页导航条样式 END ----------- */

@@ -1,0 +1,33 @@
+container {
+  flex: 1;
+  background-color: #e8e8e8;
+}
+
+/* ---------- More页导航条样式 BEGIN ----------- */
+navStyle {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  height: 44px;
+
+  background-color: rgba(255, 96, 0, 1);
+}
+
+  navMiddleStyle {}
+    navMiddleTextStyle {
+      color: white;
+      font-size: 17px;
+      font-weight: bold;
+    }
+
+  navRightStyle {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+  }
+    navRightImageStyle {
+      width: 25px;
+      height: 25px;
+    }
+/* ---------- More页导航条样式 END ----------- */
