@@ -6,4 +6,4 @@
 黑苹果被玩坏了，因此ios的细节还没做好
 
 ### 演示：
-![](http://airing.ursb.me/image/android-sunny-1.jpg-h600.jpg)
+![](http://github.com/Away0x/rn_project/blob/master/MyDouBanMovie/1.gif) ![](http://github.com/Away0x/rn_project/blob/master/MyDouBanMovie/2.gif)
